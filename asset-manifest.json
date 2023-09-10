@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-with-mosh.git/static/css/main.5cd64d03.css",
+    "main.js": "/react-with-mosh.git/static/js/main.ae05d512.js",
+    "static/js/496.17cc8030.chunk.js": "/react-with-mosh.git/static/js/496.17cc8030.chunk.js",
+    "index.html": "/react-with-mosh.git/index.html",
+    "main.5cd64d03.css.map": "/react-with-mosh.git/static/css/main.5cd64d03.css.map",
+    "main.ae05d512.js.map": "/react-with-mosh.git/static/js/main.ae05d512.js.map",
+    "496.17cc8030.chunk.js.map": "/react-with-mosh.git/static/js/496.17cc8030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd64d03.css",
+    "static/js/main.ae05d512.js"
+  ]
+}
